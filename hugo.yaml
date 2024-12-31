@@ -1,0 +1,48 @@
+baseURL: https://sapategu.com/
+languageCode: en-us
+title: Samuel Gultom
+theme: PaperMod
+defaultContentLanguageInSubdir: true
+
+markup:
+  goldmark:
+    duplicateResourceFiles: true
+    extensions:
+      strikethrough: false
+      extras:
+        delete:
+          enable: true
+        insert:
+          enable: true
+        mark:
+          enable: true
+        subscript:
+          enable: true
+        superscript:
+          enable: true
+
+params:
+  author: Samuel Pandohan Terampil Gultom
+  # fediverseCreator: "@david_guillot@social.tchncs.de"
+  images:
+    - sapategu.jpeg
+  enableGlobalLanguageMenu: true
+  ShowRssButtonInSectionTermList: true
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowFullTextinRSS: true
+  ExternalLinksIcon: true
+  ExternalLinksNewTab: true
+
+  profileMode:
+    enabled: true
+    imageUrl: sapategu.jpeg
+    imageWidth: 300
+    imageHeight: 300
+  socialIcons:
+    - name: Email
+      url: mailto:sapategu@gmail.com
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/sapategu/
+    - name: Github
+      url: https://github.com/sapategu
