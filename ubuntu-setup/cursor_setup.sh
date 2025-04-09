@@ -1,4 +1,4 @@
-# SOURCE: https://github.com/jorcelinojunior/cursor-setup-wizard
+# SOURCE: https://github.com/jorcelinojunior/cursor-setup-wizard/commit/9b6564ed818eaadae72f206a1199373553b4f0b6
 
 #!/usr/bin/env bash
 set -euo pipefail
