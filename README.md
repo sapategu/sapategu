@@ -1,1 +1,1 @@
-Where Compilers, Neural Network, and Orchestration are pivotal
+where compilers, orchestration, and neural network are pivotal
